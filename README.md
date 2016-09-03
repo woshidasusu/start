@@ -13,8 +13,13 @@ Android的学习笔记，自定义View的内容比较丰富
 # [Trinea/android-open-project](https://github.com/Trinea/android-open-project)  
 Android开源项目整理，报课开源项目源码解析等，查找资源的好地方。  
 
+![](./picture/20160903114257.jpg)  
+![](./picture/20160903114325.jpg)  
+
 # [XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs)  
 很齐全的各种开源lib，AndroidCat网站，也是查找资源的好地方 
+
+![](./picture/20160903114356.jpg)
 
 # [LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)  
 Android SDK源码解析，看源码分析时可以来这里看看  
