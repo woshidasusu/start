@@ -49,6 +49,8 @@ Android官方培训教程 中文版
 #. [litesuits / android-lite-orm]()  
 阿里巴巴员工的开源库，分享的开源库里有orm的数据库框架，线程池管理的框架，以及异步任务框框和常用工具类框架等。
 
-
+#. [JackyAndroid/AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md#%E6%8E%A5%E5%8F%A3%E7%9A%84%E6%84%8F%E4%B9%89-%E7%99%BE%E5%BA%A6)  
+国内一线互联网公司内部面试题库  
+![](https://github.com/woshidasusu/start/blob/master/picture/QQ%E6%88%AA%E5%9B%BE20160913135247.jpg) ![](https://github.com/woshidasusu/start/blob/master/picture/QQ%E6%88%AA%E5%9B%BE20160913135305.jpg)
 
 
