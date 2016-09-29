@@ -1,3 +1,7 @@
+#. [Android开发规范](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)  
+
+
+
 #· [ZQiang94/Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)  
 大神记录的比较有价值的Android相关的blog  
 ***  
