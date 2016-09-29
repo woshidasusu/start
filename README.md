@@ -1,5 +1,5 @@
 #. [Android开发规范](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)  
-
+![](./picture/QQ截图20160929220654.jpg)
 
 
 #· [ZQiang94/Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)  
